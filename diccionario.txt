@@ -1,0 +1,3 @@
+casa=home
+dormi=sleep
+correr=run
