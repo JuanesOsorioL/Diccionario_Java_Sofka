@@ -1,6 +1,7 @@
-package com.sofka.Diccionario;
+package com.sofka.Diccionario.Vista;
 
 import com.sofka.Diccionario.Modelo.Modelo;
+import com.sofka.Diccionario.Control.Texto;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,3 +1,4 @@
 casa=home
 dormi=sleep
 correr=run
+feliz=happy

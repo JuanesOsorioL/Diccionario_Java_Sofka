@@ -1,4 +1,4 @@
-package com.sofka.Diccionario;
+package com.sofka.Diccionario.Control;
 import com.sofka.Diccionario.Modelo.Modelo;
 import java.io.*;
 
